@@ -12,4 +12,4 @@ Nesse projeto foi desenvolvido a resolução do desafio proposto no "Intensivão
 
 ## 😉 Não deixe de conferir!
 
-Acesse agora mesmo essa página incrível clicando aqui 👉 [link](https://antoniofmbr.github.io/explore-sem-limites-Explorer/)# explore-sem-limites-explorer
+Acesse agora mesmo essa página incrível clicando aqui 👉 [link](https://antoniofmbr.github.io/explore-sem-limites-Explorer/)
